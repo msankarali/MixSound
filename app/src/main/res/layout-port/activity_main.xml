@@ -7,6 +7,7 @@
     android:layout_weight="1"
     android:background="@drawable/bgg"
     android:orientation="vertical"
+    android:padding="16dp"
     tools:context=".MainActivity">
 
     <LinearLayout

@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MixSound</string>
+    <string name="record">Record</string>
+    <string name="slow">Slow</string>
+    <string name="fast">Fast</string>
+    <string name="thin">Thin</string>
+    <string name="strong">Powerful</string>
 </resources>
