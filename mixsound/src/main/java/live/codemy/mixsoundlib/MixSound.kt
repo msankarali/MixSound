@@ -24,7 +24,7 @@ class MixSound : TextToSpeech.OnInitListener {
 
     fun changeSound(soundType: SoundType) {
         when (soundType) {
-            SoundType.Fast -> textToSpeech.setSpeechRate(2.0f)
+            SoundType.Fast -> textToSpeech.setSpeechRate(5.0f)
             SoundType.Slow -> textToSpeech.setSpeechRate(0.1f)
             SoundType.Chipmunk -> textToSpeech.setPitch(2f)
             SoundType.DarthVader -> textToSpeech.setPitch(0.1f)
